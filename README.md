@@ -1,10 +1,10 @@
 # MCA_mini_projct
-The world's simplest facial recognition api for Python and the command line using  face_recognition package
+The world's simplest facial recognition api for Python and the command line using  face_recognition package. I recently forked it and made modifications to suit my own needs, and I wanted to thank you for making such a valuable resource available to the community.
 
 Authors
 
-
 * Adam Geitgey <ageitgey@gmail.com>
+* Your project has been incredibly helpful, and I appreciate the effort you've put into maintaining it. I've learned a lot from studying your codebase and adapting it to my own requirements.
 
 Thanks
 ------
@@ -16,6 +16,7 @@ Thanks
   pillow, etc, etc that makes this kind of stuff so easy and fun in Python.
 * Thanks to Cookiecutter and the audreyr/cookiecutter-pypackage project template
   for making Python project packaging way more tolerable.
+* Thank you for your contribution to the open-source community. Your work has made a difference in my project, and I am grateful for the opportunity to build upon it.
 
 
 
